@@ -1,6 +1,6 @@
 # Photos-code-RandoPhotos
 
-This is JavaScript/Node.js to pick a random assort of 10 photos to run on my home page, from the directory on my site /Photos/[year selected as a variable]. 
+This is a JavaScript/Node.js script to pick a random assortment of 10 photos to run on my home page, from the directory on my site /Photos/[year selected as a variable]. 
 
 see it in action here: http://www.joabj.com
 
